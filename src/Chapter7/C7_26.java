@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to compare two lists
  *
- * @author Gavin Wilkens
+ * @author Gavin_Wilkens
  */
 public class C7_26 {
 

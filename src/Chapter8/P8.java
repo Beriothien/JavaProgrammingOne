@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to compare hours to price of two salesmen
  *
- * @author Willaim Hibbert
+ * @author Willaim_Hibbert
  */
 public class P8 {
 

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to determine minimum number out of ten numbers
  *
- * @author Gavin Wilkens
+ * @author Gavin_Wilkens
  */
 public class C7_9 {
 

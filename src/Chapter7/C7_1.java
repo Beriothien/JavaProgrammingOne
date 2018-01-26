@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to Determine students scores.
  *
- * @author Gavin Wilkens
+ * @author Gavin_Wilkens
  */
 public class C7_1 {
 

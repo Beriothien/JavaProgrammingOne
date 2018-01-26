@@ -3,7 +3,7 @@ package Chapter8;
 /**
  * Program to display employees work hours per minute
  *
- * @author Gavin Wilkens
+ * @author Gavin_Wilkens
  */
 public class C8_4 {
 

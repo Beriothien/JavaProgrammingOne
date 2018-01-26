@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to average a specified amount of numbers
  *
- * @author Willaim Hibbert
+ * @author Willaim_Hibbert
  */
 public class P7 {
 
